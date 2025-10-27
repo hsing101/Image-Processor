@@ -1,6 +1,6 @@
 # AI-Powered Image Processing Platform
 
-A full-stack image processing application combining traditional computer vision algorithms with deep learning capabilities. Built with Spring Boot, React, and PyTorch for production-grade image transformation and enhancement.
+A full-stack image processing application built with Spring Boot, React, and PyTorch for image transformations and enhancements
 
 ## 🚀 Features
 
